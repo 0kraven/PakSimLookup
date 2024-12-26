@@ -89,7 +89,3 @@ python3 paksimlookup.py --cnic 1234512345671
 
 ## Contribution
 🌟Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-[MIT License](LICENSE)
-
