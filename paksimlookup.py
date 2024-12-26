@@ -12,8 +12,8 @@ def show_banner():
    | --number <number> (must start with 92) or --cnic <cnic> (without dashes) |
    |++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
    | Example Usage:                                                           |
-   | python3 paksimlookup.py --number 923001234567                        |
-   | python3 paksimlookup.py --cnic 1234512345671                         |
+   | python3 paksimlookup.py --number 923001234567                            |
+   | python3 paksimlookup.py --cnic 1234512345671                             |
    |__________________________________________________________________________|
                                          | GitHub: 0kraven | justanormalguy   |
                                          |____________________________________|     
