@@ -21,7 +21,7 @@ PakSimLookup is a Python-based tool designed to extract information using either
 ---
 
 ## VPN Installation
-Vpn is required to make connection with database. OpenVPN is highly recommended for its reliability and ease of use. I have provided configuration file for vpn connection you can use that file. If open vpn does not work you can use **riseup vpn**, there are plenty of vpn available. You can use this command in powershell `winget search vpn`. Below are the commands to install Python and OpenVPN in Windows and Linux:
+Vpn is required to make connection with database. OpenVPN is highly recommended for its reliability and ease of use. I have provided configuration file for vpn connection you can use that file. If open vpn does not work you can use `Riseup VPN`, there are plenty of vpn available. You can use this command in powershell `winget search vpn`. Below are the commands to install Python and OpenVPN in Windows and Linux:
 
 ### 💻 Windows (PowerShell)
 To install Python and OpenVPN, run the following commands in your powershell:
